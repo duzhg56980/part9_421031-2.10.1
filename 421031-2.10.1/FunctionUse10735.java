@@ -1,0 +1,7 @@
+import org.apache.hadoop.ipc.proto.GenericRefreshProtocolProtos.GenericRefreshResponseCollectionProtoOrBuilder;
+public class FunctionUse10735 {
+public void funcUse() {
+GenericRefreshResponseCollectionProtoOrBuilder genericrefreshresponsecollectionprotoorbuilder = new GenericRefreshResponseCollectionProtoOrBuilder();
+genericrefreshresponsecollectionprotoorbuilder.getResponses(null);
+}
+}

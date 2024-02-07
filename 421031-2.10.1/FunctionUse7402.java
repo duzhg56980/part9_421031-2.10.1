@@ -1,0 +1,6 @@
+import org.apache.hadoop.metrics2.MetricStringBuilder;
+public class FunctionUse7402 {
+public void funcUse() {
+MetricStringBuilder metricstringbuilder = new MetricStringBuilder();
+}
+}
